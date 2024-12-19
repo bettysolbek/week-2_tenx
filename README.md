@@ -157,4 +157,4 @@ Develop a Streamlit dashboard to visualize data insights interactively.
 - Principal Component Analysis (PCA)
 - K-means Clustering
 
-For more information, refer to the tutorials and documentation provided in the challenge instructions.
+
